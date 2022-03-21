@@ -1,10 +1,8 @@
 # serenityos-themes
 SerenityOS Themes (unofficial)
-
+```
 Themes created by djwisdom <djwisdom@gmail.com>
 BSD 2-Clause License
----
-
 
 Identifying with your preferred OS
 
@@ -27,24 +25,27 @@ Uncomfortable with technology?
                  \
                   `------------------------------- Go for Windows/Microsoft
                             
----
-
 Snapshot of the themes
 
 CakePlacid Theme (light)
 Status: Unofficial
-[[https://github.com/djwisdom/serenityos-themes/snapshots/CakePlacid.png|alt=CakePlacid]]
-
+```
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid.png
+```
 Coolio Theme (light)
 Status: Unofficial
-[[https://github.com/djwisdom/serenityos-themes/snapshots/Coolio.png|alt=Coolio]]
-
+```
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio.png
+```
 CudbearGriz Theme (dark)
 Status: Unofficial
-[[https://github.com/djwisdom/serenityos-themes/snapshots/CudbearGriz.png|alt=CudbearGriz]]
-
+```
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearGriz.png
+```
 CudbearPal Theme (dark)
 Status: Unofficial
-[[https://github.com/djwisdom/serenityos-themes/snapshots/CudbearPal.png|alt=CudbearPal]]
-
+```
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearPal.png
+```
 Individual theme status will be updated if and when they are merged to serenityos master repo.
+```
