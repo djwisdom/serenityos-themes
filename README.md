@@ -30,7 +30,7 @@ Snapshot of the themes
 CakePlacid Theme (light)
 Status: Unofficial
 ```
-https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid.png
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid-latest.png
 ```
 Coolio Theme (light)
 Status: Unofficial
