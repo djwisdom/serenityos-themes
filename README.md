@@ -35,12 +35,12 @@ https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid.png
 Coolio Theme (light)
 Status: Unofficial
 ```
-https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio.png
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio-latest.png
 ```
 CudbearGriz Theme (dark)
 Status: Unofficial
 ```
-https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearGriz.png
+https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearGriz-latest.png
 ```
 CudbearPal Theme (dark)
 Status: Unofficial
