@@ -31,32 +31,32 @@ Uncomfortable with technology?
 ```
 
 # CakePlacid Theme (light)
-## Status: Unofficial
+Status: Unofficial
 
 ![CakePlacid](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid-latest.png)
 
 
 # Coolio Theme (light)
-## Status: Unofficial
+Status: Unofficial
 
 ![Coolio](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio-latest.png)
 
 
 # CudbearGriz Theme (dark)
-## Status: Unofficial
+Status: Unofficial
 
 ![CudbearGriz](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearGriz-latest.png)
 
 
 # CudbearPal Theme (dark)
-## Status: Unofficial
+Status: Unofficial
 
 ![CudbearPal](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearPal.png)
 
 
 # Miniminty Theme (light)
-## Status: Unofficial [PR](https://github.com/SerenityOS/serenity/pull/13255)
+Status: Unofficial [PR](https://github.com/SerenityOS/serenity/pull/13255)
 
 ![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty.png)
 
-Individual theme status will be updated if and when they are merged to serenityos master repo.
+Individual theme status will be updated if and when they are merged to SerenityOS master repo.
