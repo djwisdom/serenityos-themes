@@ -57,6 +57,6 @@ Status: Unofficial
 # Miniminty Theme (light)
 Status: Unofficial [PR](https://github.com/SerenityOS/serenity/pull/13255)
 
-![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty.png)
+![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty-latest.png)
 
 Individual theme status will be updated if and when they are merged to SerenityOS master repo.
