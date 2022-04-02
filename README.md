@@ -1,12 +1,12 @@
-# SerenityOS Themes (Unofficial)
-This repo is a collection of different themes I created for SerenityOS through a burst of inspiration while having zero theme creation knowledge. It is fine by me if these themes don't see the light day being merged to master, I did try submitting a [PR](https://github.com/SerenityOS/serenity/pull/13188) and was naturally turned down. And so, I [tried](https://github.com/SerenityOS/serenity/pull/13255) again.  :^)
- 
+## SerenityOS Themes (Unofficial)
+This repo is a collection of different themes I created for SerenityOS through a burst of inspiration while having zero theme creation knowledge. It is fine by me if these themes don't see the light day being merged to master, I did try submitting a [PR](https://github.com/SerenityOS/serenity/pull/13188) and was naturally turned down. And so, I [tried](https://github.com/SerenityOS/serenity/pull/13255). And [again](https://github.com/SerenityOS/serenity/pull/13410).  :^)
 
-```
-Themes created by djwisdom <djwisdom@gmail.com>
+Draft themes are very rudimentary and does not yet conform to SerenityOS technical standards while Stable themes are personally considered to be somewhat compliant, all that remains after PR submission is the elusive approval and merge status. 
 
+## Themes created by djwisdom <djwisdom@gmail.com>
 BSD 2-Clause License
 
+```console
 Identifying with your preferred OS
 
 Uncomfortable with technology?
@@ -31,32 +31,38 @@ Uncomfortable with technology?
 ```
 
 # CakePlacid Theme (light)
-Status: Unofficial
+Status: Unofficial/Draft
 
 ![CakePlacid](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid-latest.png)
 
 
 # Coolio Theme (light)
-Status: Unofficial
+Status: Unofficial/Draft
 
 ![Coolio](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio-latest.png)
 
 
 # CudbearGriz Theme (dark)
-Status: Unofficial
+Status: Unofficial/Draft
 
 ![CudbearGriz](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearGriz-latest.png)
 
 
 # CudbearPal Theme (dark)
-Status: Unofficial
+Status: Unofficial/Draft
 
 ![CudbearPal](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CudbearPal.png)
 
 
 # Miniminty Theme (light)
-Status: Unofficial [PR](https://github.com/SerenityOS/serenity/pull/13255)
+Status: Unofficial/Stable [PR](https://github.com/SerenityOS/serenity/pull/13410)
 
 ![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty-latest.png)
+
+
+# Chillychilly Theme (light)
+Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13373)
+
+![Chillychilly](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Chillychilly.png)
 
 Individual theme status will be updated if and when they are merged to SerenityOS master repo.
