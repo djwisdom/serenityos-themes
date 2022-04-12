@@ -3,7 +3,15 @@ This repo is a collection of different themes I created for SerenityOS through a
 
 Draft themes are very rudimentary and does not yet conform to SerenityOS technical standards while Stable themes are personally considered to be somewhat compliant, all that remains after PR submission is the elusive approval and merge status. 
 
-# Themes created by djwisdom 
+After submitting several themes which were mostly turned down, I was glad to be able to put in at least two themes!
+
+Moving forward, this looks like the direction where SerenityOS Themes are concerned. The closing comment says it all.
+
+![Theme Focus](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Focus.png)
+
+I may or may no longer add to the themes here on my personal repo since I am 100% in total support with what the official thrust now is as aptly worded on the comment above. :^)
+
+## Themes created by djwisdom 
 BSD 2-Clause License
 
 ```console
