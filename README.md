@@ -63,7 +63,7 @@ Status: Unofficial/Draft
 
 
 ## Miniminty Theme (light)
-Status: Unofficial/Stable [PR](https://github.com/SerenityOS/serenity/pull/13410)
+Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13410)
 
 ![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty-latest.png)
 
@@ -73,4 +73,14 @@ Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13373)
 
 ![Chillychilly](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Chillychilly.png)
 
+## Durrque Theme (dark)
+Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13618)
+
+![Durrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Durrque_Theme.png)
+
+
+## Nondurrque Theme (light)
+Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13373)
+
+![Nondurrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Nondurrque.png)
 Individual theme status will be updated if and when they are merged to SerenityOS master repo.
