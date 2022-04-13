@@ -82,5 +82,5 @@ Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13618)
 ## Nondurrque Theme (light)
 Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13373)
 
-![Nondurrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Nondurrque.png)
+![Nondurrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Nondurrque_Theme.png)
 Individual theme status will be updated if and when they are merged to SerenityOS master repo.
