@@ -74,7 +74,7 @@ Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13373)
 ![Chillychilly](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Chillychilly.png)
 
 ## Durrque Theme (dark)
-Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13618)
+Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13620)
 
 ![Durrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Durrque_Theme.png)
 
