@@ -1,4 +1,5 @@
-# This document lists my preferred SerenityOS themes from top to lowest
+# This document lists my preferred SerenityOS themes from top to bottom.
+
 ## Default Theme
 This is SerenityOS default theme. As they say, the original is always the best.
 
