@@ -6,9 +6,6 @@
 ## Coffee Theme
 ![Coffee Theme](gallery/Coffee.png)
 
-## Coolio Theme
-![Coolio Theme](gallery/Coolio.png)
-
 ## Cupertino Theme
 ![Cupertino Theme](gallery/Cupertino.png)
 
