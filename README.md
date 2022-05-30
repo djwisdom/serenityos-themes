@@ -68,10 +68,10 @@ Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13410)
 ![MiniMinty](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Miniminty-latest.png)
 
 
-## Chillychilly Theme (light)
-Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13373)
+## Chillychilly All-in-One Theme (light)
+Status: Official
 
-![Chillychilly](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Theme_Chillychilly.png)
+![Chillychilly All-in-One Theme](Chillychilly-AIO-SerenityOS.png)
 
 ## Durrque Theme (dark)
 Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13620)
