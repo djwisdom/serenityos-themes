@@ -14,30 +14,6 @@ I may or may no longer add to the themes here on my personal repo since I am 100
 ## Themes created by djwisdom 
 BSD 2-Clause License
 
-```console
-Identifying with your preferred OS
-
-Uncomfortable with technology?
-  \
-   \-- YES -- Is price not an issue to you?  
-    NO          \
-     \           \-- YES ------------------------- Go for MacOS/Apple
-      \           \
-       \           NO
-        \           `----------------------------- Go for ChromeOS/Google                                 
-         \
-          Do you care much about your freedom/privacy? 
-           \
-            \-- YES -- Is there a plan? 
-             \           \
-              \           \-- YES ---------------- Go for Linux/*BSD
-               \           NO
-                NO          `--------------------- Go for SerenityOS (serenityos.org)
-                 \
-                  `------------------------------- Go for Windows/Microsoft
-                            
-```
-
 ## CakePlacid Theme (light)
 Status: Unofficial/Draft
 
