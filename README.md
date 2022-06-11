@@ -59,4 +59,10 @@ Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13620)
 Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13636)
 
 ![Nondurrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Nondurrque_Theme.png)
+
+## Redmond Zehn
+This is based off of metalvoidzz's [Redmond 10 theme](https://github.com/serenityos/serenity/pull/14218)
+ with minor tweaks/hacks on TitleButtonIcons. His PR encompasses both C++ source code and themes whereas
+ I only limit mine on aesthetic theme portion.
+
 Individual theme status will be updated if and when they are merged to SerenityOS master repo.
