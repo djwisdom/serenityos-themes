@@ -15,7 +15,7 @@ I may or may no longer add to the themes here on my personal repo since I am 100
 BSD 2-Clause License
 
 ## CakePlacid Theme (light)
-Status: Unofficial/Draft
+Status: Theming repo
 
 ![CakePlacid](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid-latest.png)
 
@@ -49,10 +49,10 @@ Status: Official
 
 ![Chillychilly All-in-One Theme](Chillychilly-AIO-SerenityOS.png)
 
-## Durrque Theme (dark)
-Status: Official [PR](https://github.com/SerenityOS/serenity/pull/13620)
+## Durrque All-in-One Theme (dark)
+Status: Official
 
-![Durrque](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Durrque_Theme.png)
+![Durrque](Durrque_All_in_One.png)
 
 
 ## Nondurrque Theme (light)
