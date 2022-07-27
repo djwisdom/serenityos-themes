@@ -49,20 +49,20 @@ Status: Official
 
 ![Chillychilly All-in-One Theme](Chillychilly-AIO-SerenityOS.png)
 
-Theme: Chillychilly
-Icons: Chillychilly
-Cursors: Chillychilly
+- Theme: Chillychilly
+- Icons: Chillychilly
+- Cursors: Chillychilly
 
 ## Durrque All-in-One Theme (dark)
 Status: Official
 
 ![Durrque](Durrque_All_in_One.png)
 
-Theme: Durrque
-Default font: Durrque
-Fixed-width font: Durrque Mono
-Cursor: Durrque
-Icons: Durrque
+- Theme: Durrque
+- Default font: Durrque
+- Fixed-width font: Durrque Mono
+- Cursor: Durrque
+- Icons: Durrque
 
 ## Nondurrque Theme (light)
 Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13636)
