@@ -1,5 +1,5 @@
 # SerenityOS Themes (Unofficial)
-This repo is a collection of different themes I created for SerenityOS through bursts of inspiration while having zero theme creation knowledge. It is fine by me if these themes don't see the light of day being merged to master, I did try submitting a [PR](https://github.com/SerenityOS/serenity/pull/13188) and was naturally turned down. And so, I [tried](https://github.com/SerenityOS/serenity/pull/13255) again. And [again](https://github.com/SerenityOS/serenity/pull/13410).  :^)
+This repo is a collection of different themes I created for SerenityOS through bursts of inspiration while initially having zero theme creation knowledge. It is fine by me if these themes don't see the light of day being merged to master, I did try submitting a [PR](https://github.com/SerenityOS/serenity/pull/13188) and was naturally turned down. And so, I [tried](https://github.com/SerenityOS/serenity/pull/13255) again. And [again](https://github.com/SerenityOS/serenity/pull/13410).  :^)
 
 Draft themes are very rudimentary and does not yet conform to SerenityOS technical standards while Stable themes are personally considered to be somewhat compliant, all that remains after PR submission is the elusive approval and merge status. 
 
@@ -15,13 +15,13 @@ I may or may no longer add to the themes here on my personal repo since I am 100
 BSD 2-Clause License
 
 ## CakePlacid Theme (light)
-Status: Theming repo
+Status: Theming repo hosted
 
 ![CakePlacid](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/CakePlacid-latest.png)
 
 
 ## Coolio Theme (light)
-Status: Unofficial/Draft
+Status: Unofficial/WIP
 
 ![Coolio](https://github.com/djwisdom/serenityos-themes/blob/main/snapshots/Coolio-latest.png)
 
