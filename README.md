@@ -47,7 +47,7 @@ Status: Closed/Stable [PR](https://github.com/SerenityOS/serenity/pull/13410)
 ## Chillychilly All-in-One Theme (light)
 Status: Official
 
-![Chillychilly All-in-One Theme](Chillychilly-AIO-SerenityOS.png)
+![Chillychilly All-in-One Theme](https://raw.githubusercontent.com/djwisdom/digital-assets/main/theming/themes%2Ball-in-one/Chillychilly_Theme.png)
 
 - Theme: Chillychilly
 - Icons: Chillychilly
