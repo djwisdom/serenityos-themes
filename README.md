@@ -52,6 +52,7 @@ Status: Official
 - Theme: Chillychilly
 - Icons: Chillychilly
 - Cursors: Chillychilly
+- Fonts: Laglucdy
 
 ## Durrque All-in-One Theme (dark)
 Status: Official
